@@ -1,0 +1,1 @@
+This is the first software development I've done.As you know, HDplayer works on led screens with SDK. Thanks to the application I developed, it can send data via Wi-Fi or Ethernet cable along with IP and port.
